@@ -1,2 +1,3 @@
-# Hola Mundo!
-Soy Juan C. Luna H. y aquí hago presencia para la participación y desarrollo de software para solventar necesidades empresariales.
+# Juan C. Luna H.
+
+Desarrollador e Integrador de Software Empresarial
